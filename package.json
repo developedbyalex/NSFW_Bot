@@ -1,0 +1,21 @@
+{
+  "name": "coronastats",
+  "version": "1.0.0",
+  "description": "https://shay.services/",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ShayGaming24",
+  "license": "ISC",
+  "dependencies": {
+    "@blad3mak3r/reddit-memes": "^0.2.3",
+    "coingecko-api": "^1.0.10",
+    "discord.js": "^12.2.0",
+    "random-puppy": "^1.1.0",
+    "strict-uri-encode": "^2.0.0",
+    "request": "2.88.0",
+    "colors": "^1.4.0"
+  },
+  "nodeVersion": "12.16.3"
+}
