@@ -18,7 +18,6 @@ module.exports.run = async(client, message, args, prefix) => {
 		{ name: '`.tease`', value: 'Get yourself in the mood', inline: true },
 		{ name: '`.penis`', value: 'See that cock', inline: true },
 		{ name: '`.tits`', value: 'Get a cheeky tit pic', inline: true },
-		{ name: '`.danielle`', value: 'For Danielle', inline: true },
 		{ name: '`.cosplay`', value: 'Bit of RP :wink:', inline: true },
 		{ name: '`.legs`', value: 'Thicc', inline: true },
 		{ name: '`.feet`', value: 'Eww stinky', inline: true },
