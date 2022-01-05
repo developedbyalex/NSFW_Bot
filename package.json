@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "ShayGaming24",
+  "author": "developedbyalex",
   "license": "ISC",
   "dependencies": {
     "@blad3mak3r/reddit-memes": "^0.2.3",
